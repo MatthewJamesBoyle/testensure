@@ -3,8 +3,66 @@
   <component name="ChangeListManager">
     <list default="true" id="ea93c6a6-4f84-4e47-934c-91c8a67f7093" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gopkg.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gopkg.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gopkg.toml" beforeDir="false" afterPath="$PROJECT_DIR$/Gopkg.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmd/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmd/main_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/system/explorer_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/system/explorer_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/spf13/afero/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/spf13/afero/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/spf13/afero/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/spf13/afero/afero.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/spf13/afero/appveyor.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/spf13/afero/basepath.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/spf13/afero/cacheOnReadFs.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/spf13/afero/const_bsds.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/spf13/afero/const_win_unix.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/spf13/afero/copyOnWriteFs.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/spf13/afero/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/spf13/afero/httpFs.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/spf13/afero/ioutil.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/spf13/afero/lstater.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/spf13/afero/match.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/spf13/afero/mem/dir.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/spf13/afero/mem/dirmap.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/spf13/afero/mem/file.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/spf13/afero/memmap.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/spf13/afero/os.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/spf13/afero/path.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/spf13/afero/readonlyfs.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/spf13/afero/regexpfs.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/spf13/afero/unionFile.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/spf13/afero/util.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/text/AUTHORS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/text/CONTRIBUTORS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/text/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/text/PATENTS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/text/internal/gen/code.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/text/internal/gen/gen.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/text/internal/triegen/compact.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/text/internal/triegen/print.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/text/internal/triegen/triegen.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/text/internal/ucd/ucd.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/text/transform/transform.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/text/unicode/cldr/base.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/text/unicode/cldr/cldr.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/text/unicode/cldr/collate.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/text/unicode/cldr/decode.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/text/unicode/cldr/makexml.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/text/unicode/cldr/resolve.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/text/unicode/cldr/slice.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/text/unicode/cldr/xml.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/text/unicode/norm/composition.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/text/unicode/norm/forminfo.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/text/unicode/norm/input.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/text/unicode/norm/iter.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/text/unicode/norm/maketables.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/text/unicode/norm/normalize.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/text/unicode/norm/readwriter.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/text/unicode/norm/tables10.0.0.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/text/unicode/norm/tables9.0.0.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/text/unicode/norm/transform.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/text/unicode/norm/trie.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/text/unicode/norm/triegen.go" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,22 +113,32 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="go" value="359" />
+          <entry key="go" value="1270" />
+          <entry key="toml" value="54" />
+          <entry key="txt" value="30" />
+          <entry key="yml" value="37" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Go" value="359" />
+          <entry key="Go" value="1270" />
+          <entry key="PLAIN_TEXT" value="84" />
+          <entry key="YAML" value="37" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="go" value="1" />
+          <entry key="go" value="12" />
+          <entry key="toml" value="1" />
+          <entry key="txt" value="1" />
+          <entry key="yml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Go" value="1" />
+          <entry key="Go" value="12" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="YAML" value="1" />
         </counts>
       </usages-collector>
     </session>
@@ -80,52 +148,18 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cmd/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+            <state relative-caret-position="218">
+              <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
               <folding>
-                <element signature="e#14#90#0" expanded="true" />
+                <element signature="e#14#103#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/internal/system/explorer_test.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
-              <folding>
-                <element signature="e#16#75#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/internal/testpack/notTested.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="16" selection-start-column="16" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/internal/system/explorer.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file:///usr/local/Cellar/go/1.11.1/libexec/src/path/filepath/path.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="159">
-              <caret line="401" selection-start-line="401" selection-end-line="401" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/testensure.toml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -140,6 +174,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>os</find>
+      <find>data</find>
     </findStrings>
   </component>
   <component name="GOROOT" path="/usr/local/Cellar/go/1.11.1/libexec" />
@@ -153,8 +188,14 @@
         <option value="$PROJECT_DIR$/internal/models/Test.go" />
         <option value="$PROJECT_DIR$/cmd/main_test.go" />
         <option value="$PROJECT_DIR$/internal/testpack/notTested.go" />
+        <option value="$PROJECT_DIR$/internal/testpack/somesubdir/alsoNotTested.go" />
+        <option value="$PROJECT_DIR$/internal/testpack/somesubdir/legittested.go" />
+        <option value="$PROJECT_DIR$/internal/testpack/somesubdir/legittested_test.go" />
+        <option value="$PROJECT_DIR$/internal/testpack/nongodir/hi.txt" />
         <option value="$PROJECT_DIR$/internal/system/explorer.go" />
         <option value="$PROJECT_DIR$/internal/system/explorer_test.go" />
+        <option value="$PROJECT_DIR$/testensure.yml" />
+        <option value="$PROJECT_DIR$/testensure.toml" />
         <option value="$PROJECT_DIR$/cmd/main.go" />
       </list>
     </option>
@@ -253,17 +294,6 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="TestExplore in github.com/matthewjamesboyle/testCommander/internal/system" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="testCommander" />
-      <working_directory value="$PROJECT_DIR$/internal/system" />
-      <framework value="gotest" />
-      <kind value="PACKAGE" />
-      <package value="github.com/matthewjamesboyle/testCommander/internal/system" />
-      <directory value="$PROJECT_DIR$/" />
-      <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^TestExplore$" />
-      <method v="2" />
-    </configuration>
     <configuration name="TestExplore in github.com/matthewjamesboyle/testEnsure/internal/system" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="testCommander" />
       <working_directory value="$PROJECT_DIR$/internal/system" />
@@ -273,6 +303,17 @@
       <directory value="$PROJECT_DIR$/" />
       <filePath value="$PROJECT_DIR$/" />
       <pattern value="^TestExplore$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestExplore/A_directory_with_no_go_files_returns_nil in github.com/matthewjamesboyle/testEnsure/internal/system" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="testCommander" />
+      <working_directory value="$PROJECT_DIR$/internal/system" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/matthewjamesboyle/testEnsure/internal/system" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestExplore$/^A_directory_with_no_go_files_returns_nil$" />
       <method v="2" />
     </configuration>
     <configuration name="TestExplore/Correctly_returns_untested_files in github.com/matthewjamesboyle/testEnsure/internal/system" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
@@ -299,51 +340,51 @@
     <list>
       <item itemvalue="Go Build.Unnamed" />
       <item itemvalue="Go Build.go build main.go" />
-      <item itemvalue="Go Test.TestExplore in github.com/matthewjamesboyle/testCommander/internal/system" />
       <item itemvalue="Go Test.TestExplore in github.com/matthewjamesboyle/testEnsure/internal/system" />
       <item itemvalue="Go Test.TestExplore/Correctly_returns_untested_files in github.com/matthewjamesboyle/testEnsure/internal/system" />
       <item itemvalue="Go Test.go test github.com/matthewjamesboyle/testEnsure/internal/system" />
+      <item itemvalue="Go Test.TestExplore/A_directory_with_no_go_files_returns_nil in github.com/matthewjamesboyle/testEnsure/internal/system" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Go Build.go build main.go" />
-        <item itemvalue="Go Test.go test github.com/matthewjamesboyle/testEnsure/internal/system" />
+        <item itemvalue="Go Test.TestExplore/A_directory_with_no_go_files_returns_nil in github.com/matthewjamesboyle/testEnsure/internal/system" />
         <item itemvalue="Go Test.TestExplore/Correctly_returns_untested_files in github.com/matthewjamesboyle/testEnsure/internal/system" />
         <item itemvalue="Go Test.TestExplore in github.com/matthewjamesboyle/testEnsure/internal/system" />
-        <item itemvalue="Go Test.TestExplore in github.com/matthewjamesboyle/testCommander/internal/system" />
+        <item itemvalue="Go Test.go test github.com/matthewjamesboyle/testEnsure/internal/system" />
       </list>
     </recent_temporary>
   </component>
   <component name="TestHistory">
-    <history-entry file="TestExplore_in_github_com_matthewjamesboyle_testCommander_internal_system - 2018.11.10 at 16h 59m 04s.xml">
-      <configuration name="TestExplore in github.com/matthewjamesboyle/testCommander/internal/system" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="TestExplore_in_github_com_matthewjamesboyle_testCommander_internal_system - 2018.11.10 at 17h 11m 14s.xml">
-      <configuration name="TestExplore in github.com/matthewjamesboyle/testCommander/internal/system" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="TestExplore_in_github_com_matthewjamesboyle_testCommander_internal_system - 2018.11.10 at 17h 11m 31s.xml">
-      <configuration name="TestExplore in github.com/matthewjamesboyle/testCommander/internal/system" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="TestExplore_in_github_com_matthewjamesboyle_testEnsure_internal_system - 2018.11.10 at 17h 23m 40s.xml">
-      <configuration name="TestExplore in github.com/matthewjamesboyle/testEnsure/internal/system" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="TestExplore_Correctly_returns_untested_files_in_github_com_matthewjamesboyle_testEnsure_internal_system - 2018.11.10 at 17h 39m 18s.xml">
+    <history-entry file="TestExplore_Correctly_returns_untested_files_in_github_com_matthewjamesboyle_testEnsure_internal_system - 2018.11.11 at 19h 37m 27s.xml">
       <configuration name="TestExplore/Correctly_returns_untested_files in github.com/matthewjamesboyle/testEnsure/internal/system" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="go_test_github_com_matthewjamesboyle_testEnsure_internal_system - 2018.11.10 at 17h 40m 27s.xml">
-      <configuration name="go test github.com/matthewjamesboyle/testEnsure/internal/system" configurationId="GoTestRunConfiguration" />
+    <history-entry file="TestExplore_Correctly_returns_untested_files_in_github_com_matthewjamesboyle_testEnsure_internal_system - 2018.11.11 at 19h 38m 15s.xml">
+      <configuration name="TestExplore/Correctly_returns_untested_files in github.com/matthewjamesboyle/testEnsure/internal/system" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="go_test_github_com_matthewjamesboyle_testEnsure_internal_system - 2018.11.10 at 17h 40m 47s.xml">
-      <configuration name="go test github.com/matthewjamesboyle/testEnsure/internal/system" configurationId="GoTestRunConfiguration" />
+    <history-entry file="TestExplore_Correctly_returns_untested_files_in_github_com_matthewjamesboyle_testEnsure_internal_system - 2018.11.11 at 19h 38m 45s.xml">
+      <configuration name="TestExplore/Correctly_returns_untested_files in github.com/matthewjamesboyle/testEnsure/internal/system" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="go_test_github_com_matthewjamesboyle_testEnsure_internal_system - 2018.11.10 at 17h 41m 36s.xml">
-      <configuration name="go test github.com/matthewjamesboyle/testEnsure/internal/system" configurationId="GoTestRunConfiguration" />
+    <history-entry file="TestExplore_A_directory_with_no_go_files_returns_nil_in_github_com_matthewjamesboyle_testEnsure_internal_system - 2018.11.11 at 19h 40m 46s.xml">
+      <configuration name="TestExplore/A_directory_with_no_go_files_returns_nil in github.com/matthewjamesboyle/testEnsure/internal/system" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="go_test_github_com_matthewjamesboyle_testEnsure_internal_system - 2018.11.10 at 17h 41m 40s.xml">
-      <configuration name="go test github.com/matthewjamesboyle/testEnsure/internal/system" configurationId="GoTestRunConfiguration" />
+    <history-entry file="TestExplore_A_directory_with_no_go_files_returns_nil_in_github_com_matthewjamesboyle_testEnsure_internal_system - 2018.11.11 at 19h 40m 58s.xml">
+      <configuration name="TestExplore/A_directory_with_no_go_files_returns_nil in github.com/matthewjamesboyle/testEnsure/internal/system" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="go_test_github_com_matthewjamesboyle_testEnsure_internal_system - 2018.11.10 at 17h 41m 45s.xml">
-      <configuration name="go test github.com/matthewjamesboyle/testEnsure/internal/system" configurationId="GoTestRunConfiguration" />
+    <history-entry file="TestExplore_A_directory_with_no_go_files_returns_nil_in_github_com_matthewjamesboyle_testEnsure_internal_system - 2018.11.11 at 19h 41m 23s.xml">
+      <configuration name="TestExplore/A_directory_with_no_go_files_returns_nil in github.com/matthewjamesboyle/testEnsure/internal/system" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestExplore_A_directory_with_no_go_files_returns_nil_in_github_com_matthewjamesboyle_testEnsure_internal_system - 2018.11.11 at 19h 42m 25s.xml">
+      <configuration name="TestExplore/A_directory_with_no_go_files_returns_nil in github.com/matthewjamesboyle/testEnsure/internal/system" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestExplore_A_directory_with_no_go_files_returns_nil_in_github_com_matthewjamesboyle_testEnsure_internal_system - 2018.11.11 at 19h 42m 54s.xml">
+      <configuration name="TestExplore/A_directory_with_no_go_files_returns_nil in github.com/matthewjamesboyle/testEnsure/internal/system" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestExplore_A_directory_with_no_go_files_returns_nil_in_github_com_matthewjamesboyle_testEnsure_internal_system - 2018.11.11 at 19h 43m 17s.xml">
+      <configuration name="TestExplore/A_directory_with_no_go_files_returns_nil in github.com/matthewjamesboyle/testEnsure/internal/system" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestExplore_A_directory_with_no_go_files_returns_nil_in_github_com_matthewjamesboyle_testEnsure_internal_system - 2018.11.11 at 19h 44m 04s.xml">
+      <configuration name="TestExplore/A_directory_with_no_go_files_returns_nil in github.com/matthewjamesboyle/testEnsure/internal/system" configurationId="GoTestRunConfiguration" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -378,26 +419,12 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file:///usr/local/Cellar/go/1.11.1/libexec/src/os/types.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/internal/models/fake_test.go" />
     <entry file="file://$PROJECT_DIR$/internal/models/Test.go" />
     <entry file="file://$PROJECT_DIR$/internal/testpack/notTested.go">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="16" selection-start-column="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/internal/system/explorer.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
@@ -415,22 +442,84 @@
         </state>
       </provider>
     </entry>
+    <entry file="file:///usr/local/Cellar/go/1.11.1/libexec/src/os/types.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal/testpack/somesubdir/alsoNotTested.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal/testpack/somesubdir/legittested_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal/testpack/somesubdir/legittested.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal/testpack/nongodir/hi.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/internal/system/explorer_test.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+        <state relative-caret-position="240">
+          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
           <folding>
             <element signature="e#16#75#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Gopkg.toml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal/system/explorer.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="892">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/yaml.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="80" selection-start-line="80" selection-end-line="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/github.com/BurntSushi/toml/decode.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="127" column="5" selection-start-line="127" selection-start-column="5" selection-end-line="127" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testensure.toml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/cmd/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+        <state relative-caret-position="218">
+          <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
           <folding>
-            <element signature="e#14#90#0" expanded="true" />
+            <element signature="e#14#103#0" expanded="true" />
           </folding>
         </state>
       </provider>
